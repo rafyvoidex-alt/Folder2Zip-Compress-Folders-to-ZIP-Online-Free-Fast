@@ -1,0 +1,6 @@
+{
+  "name": "Folder2Zip - Fast Folder to ZIP Compressor",
+  "description": "Fast and easy browser-based tool to compress whole folders and files into ZIP archives with instant download and zero server uploads.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
